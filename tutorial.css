@@ -1,0 +1,49 @@
+.section-side {
+	padding-top :50px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:500px;
+	text-align:justify;
+	background-color:#dfbf9f;
+	margin-left:70px;
+	margin-right:50px;
+}
+#number{
+	padding-top:70px;
+	padding-left: 300px;
+	float : left;
+	font-size: 20px;
+}
+#simplification{
+	padding-top:70px;
+	padding-left: 200px;
+	float : left;
+	font-size: 20px;
+	
+}
+#profit{
+	padding-top:50px;
+	padding-left: 300px;
+	float : left;
+	clear:left;
+	font-size: 20px;
+}
+#percentage{
+	padding-top:50px;
+	padding-left: 175px;
+	float : left;
+	font-size: 20px;
+}
+#QuizList li	{
+					padding-bottom:10px;
+					list-style:circle;
+				}
+#QuizList a:link,#QuizList a:visited,#QuizList a:active {
+					color: black;
+					text-decoration : none;
+					
+				}
+#QuizList a:hover {
+	color:blue;
+	text-decoration:underline;
+}	

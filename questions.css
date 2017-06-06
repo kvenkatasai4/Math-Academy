@@ -1,0 +1,16 @@
+.section {
+	padding-top :50px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:75px;
+	text-align:justify;
+	background-color:#dfbf9f/*#d2a679*/;
+	margin-left:70px;
+	margin-right:50px;
+}
+.section p{
+	font-size:15px;	
+}
+#quiz{
+	padding-top:20px;
+}

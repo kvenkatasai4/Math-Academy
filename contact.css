@@ -1,0 +1,32 @@
+.section-side {
+	padding-top :50px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:250px;
+	text-align:justify;
+	background-color:#dfbf9f;
+	margin-left:70px;
+	margin-right:50px;
+}
+h2 {
+	padding-top : 25px;
+	padding-left : 40px;
+	
+}
+.left-nav{
+	float: left;
+		padding-right: 100px;
+}
+.right-nav{
+	float :left;
+	padding-top : 1px;
+	width :200px;
+}
+p {
+	color : red;
+	text-decoration : underline;
+	padding =20px;
+}
+ul {
+	list-style-type : none;
+}

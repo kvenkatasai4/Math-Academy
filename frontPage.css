@@ -1,0 +1,105 @@
+				
+.section-side		{
+					float : left;
+					clear : both;
+					padding-bottom: 150px;
+				}	
+
+.section-nav	{
+					float:left;
+					width : 1000px;
+					padding :0px 350px;
+				}
+
+#numbersList 	{
+					float :left;
+					padding : 10px 50px;
+				}	 
+#simplificationList {
+					float :left;
+					padding : 10px 40px;	
+				}
+#profitList 	{
+					float :left;
+					padding: 10px 70px;
+					padding-left:59px;
+					
+				}
+#percentageList 	{
+					float :left;
+					padding: 10px 30px;
+					
+				}
+#QuizList		{
+					margin-left:20px;
+					margin-right:18px;
+					padding-right:20px;
+					padding-top:20px;
+					padding-bottom:10px;
+					background-color:#dfbf9f;
+					
+				}
+#QuizList li	{
+					padding-bottom:10px;
+					list-style:circle;
+				}
+#QuizList a:link,#QuizList a:visited,#QuizList a:active {
+					color: black;
+					text-decoration : none;
+					
+				}
+#QuizList a:hover {
+	color:blue;
+	text-decoration:underline;
+}			
+#numbers		{
+				
+					border-radius : 100px;
+					margin : 10px;
+					padding : 10px 80px;
+					background-image: linear-gradient(to top, #804d00 , #ff9900);
+					color:white;
+				}
+#simplification	{
+					border-radius : 100px;
+					margin : 10px;
+					padding : 10px 60px;
+					background-image: linear-gradient(to top, #804d00, #ff9900);
+					color:white;
+				}
+#profit			{
+					border-radius : 100px;
+					margin : 10px;
+					padding : 10px 60px;
+					background-color : #cc0099;
+					background-image: linear-gradient(to top, #804d00, #ff9900);
+					color:white;
+				}
+#percentage		{
+					border-radius : 100px;
+					margin : 10px;
+					padding : 10px 67px;
+					background-color : #1a75ff;
+					background-image: linear-gradient(to top, #804d00, #ff9900);
+					color:white;
+				}
+				
+.section-side p {
+					float:left;
+					width: 700px;
+					padding: 50px;
+					padding-left:50px;
+					font-family: times new roman;
+					font-size: 30px;
+					margin-left:270px;
+					color:white;
+					background-color:gray;
+					border-radius:200px;
+				}
+.section-side img{
+					padding-top:80px;
+					padding-bottom:50px;
+					padding-left:20px;
+					border-radius:150px;
+	
+				}

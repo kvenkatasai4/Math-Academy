@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+  <q>Simplify: b-[b-(a+b)-{b-(b-a-b)}+2a]</q>
+  <optiona >3a</optiona>
+  <optionb >2a</optionb>
+  <optionc >4a</optionc>
+  <optiond >5a</optiond>
+  <a>4a</a>
+
+  <q>4/15 of 5/7 of a number is greater than 4/9 of 2/5 of the same number by 8. What is half of that number?</q>
+  <optiona >315</optiona>
+  <optionb >314</optionb>
+  <optionc >312</optionc>
+  <optiond>316</optiond>
+  <a>315</a>
+
+  <q>Simplify: 12.05*5.4+0.6</q>
+  <optiona>108.54</optiona>
+  <optionb>108.55</optionb>
+  <optionc >108.44</optionc>
+  <optiond>108.45</optiond>
+  <a>108.45</a>
+
+  <q>Find the value of x in [(17.28/x) / (3.6*0.2)] = 2</q>
+  <optiona>10</optiona>
+  <optionb>12</optionb>
+  <optionc >11</optionc>
+  <optiond >13</optiond>
+  <a>12</a>
+
+  <q>Find the value of x in 3648.24 + 364.824 + x – 36.4824 = 3794.1696</q>
+  <optiona >0</optiona>
+  <optionb >1</optionb>
+  <optionc >2</optionc>
+  <optiond >2</optiond>
+  <a>2</a>
+  
+  <q>If a/b=3/4 and 8a+5b=22,then find the value of a.</q>
+  <optiona >3/2</optiona>
+  <optionb >2/3</optionb>
+  <optionc >4/3</optionc>
+  <optiond >3/4</optiond>
+  <a>3/2</a>
+  
+  <q>If x/4-x-3/6=1,then find the value of x.</q>
+  <optiona >5</optiona>
+  <optionb >4</optionb>
+  <optionc >3</optionc>
+  <optiond >6</optiond>
+  <a>6</a>
+  
+  <q>If 2x+3y=34 and ((x + y)/y)=13/8,then find the value of 5y+7x.</q>
+  <optiona >80</optiona>
+  <optionb >75</optionb>
+  <optionc >70</optionc>
+  <optiond >85</optiond>
+  <a>75</a>
+  
+  <q>If 2x+3y+z=55,x-y=4 and y - x + z=12,then what are the values of x , y and z?</q>
+  <optiona >11,7,8</optiona>
+  <optionb >11,8,7</optionb>
+  <optionc >7,11,8</optionc>
+  <optiond >7,8,11</optiond>
+  <a>7,11,8</a>
+  
+  <q>Find the value of (1-(1/3))(1-(1/4))(1-(1/5))….(1-(1/100)).</q>
+  <optiona >50</optiona>
+  <optionb >25</optionb>
+  <optionc >1/25</optionc>
+  <optiond >1/50</optiond>
+  <a>1/50</a>
+  
+  <q>A board 7ft. 9 inches long is divided into 3 equal parts . What is the length of each part?</q>
+  <optiona >7.2</optiona>
+  <optionb >2.9</optionb>
+  <optionc >2.7</optionc>
+  <optiond >9.2</optiond>
+  <a>2.7</a>
+  
+  <q>A man divides Rs. Among 5 sons,4daughters and 2 nephews .If each daughter receives four times as much as each nephews and each son receives 
+	five times as much as each nephews ,how much does each daughter receive?</q>
+  <optiona >100</optiona>
+  <optionb >200</optionb>
+  <optionc >150</optionc>
+  <optiond >175</optiond>
+  <a>200</a>
+  
+  <q>A man spends 2/5 of his salary on house rent,3/10 of his salary on food and 1/8 of his
+	salary on conveyence.if he has Rs.1400 left with him,find his expenditure on food and conveyence.</q>
+  <optiona >2000</optiona>
+  <optionb >3000</optionb>
+  <optionc >4000</optionc>
+  <optiond >1000</optiond>
+  <a>1000</a>
+  
+  <q>A tin of oil was 4/5full.when 6 bottles of oil were taken out and four bottles of oil were poured into it, it was ¾ full. how many bottles of oil 
+	can the tin contain?</q>
+  <optiona >40</optiona>
+  <optionb >45</optionb>
+  <optionc >50</optionc>
+  <optiond >55</optiond>
+  <a>40</a>
+  
+  <q>if 1/8 of a pencil is black ½ of the remaining is white and the remaining 3 ½ is blue find the total length of the pencil?</q>
+  <optiona >8</optiona>
+  <optionb >9</optionb>
+  <optionc >10</optionc>
+  <optiond >11</optiond>
+  <a>8</a>
+  
+  <q>a crate of mangoes contains one bruised mango for every thirty mango in the crate. I three out of every four bruised mango are considerably unsaleble 
+	and there are 12 unsaleable mangoes in the crate then how msny mango are there in the crate?</q>
+  <optiona >490</optiona>
+  <optionb >480</optionb>
+  <optionc >500</optionc>
+  <optiond >470</optiond>
+  <a>480</a>
+  
+  <q>find the value of (75983*75983- 45983*45983/30000)</q>
+  <optiona >121699</optiona>
+  <optionb >121966</optionb>
+  <optionc >121696</optionc>
+  <optiond >121969</optiond>
+  <a>121966</a>
+  
+  <q>From a group of boys and girls,15 girls leave.There are then left 2 boys for each girl.After this,45 boys leave.There are then 5 girls for each boy.
+  Find the number of girls in the beginning?</q>
+  <optiona >40</optiona>
+  <optionb >50</optionb>
+  <optionc >60</optionc>
+  <optiond >70</optiond>
+  <a>40</a>
+  
+  <q>An employer pays Rs.20 for each day a worker works and for feits Rs.3 for each day is ideal at the end of sixty days a worker gets Rs.280 . for how 
+	many days did the worker remain ideal?</q>
+  <optiona >50</optiona>
+  <optionb >45</optionb>
+  <optionc >40</optionc>
+  <optiond >55</optiond>
+  <a>40</a>
+  
+  <q>kiran had 85 currency notes in all , some of which were of Rs.100 denaomination and the remaining of Rs.50 denomination the total amount of all these 
+	currency note was Rs.5000.how much amount did she have in the denomination of Rs.50?</q>
+  <optiona >3250</optiona>
+  <optionb >3500</optionb>
+  <optionc >3000</optionc>
+  <optiond >3750</optiond>
+  <a>3500</a>
+</questions>
+

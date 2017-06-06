@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+  <q>Simplify : 8888 + 888 + 88 + 8</q>
+  <optiona >9871</optiona>
+  <optionb >9870</optionb>
+  <optionc >9872</optionc>
+  <optiond >9873</optiond>
+  <a>9872</a>
+
+  <q>Which of the following numbers is divisible by 4 ?</q>
+  <optiona >618703571</optiona>
+  <optionb >618703572</optionb>
+  <optionc >618703563</optionc>
+  <optiond>618703565</optiond>
+  <a>618703572</a>
+
+  <q>How many numbers between 11 and 90 are divisible by 7 ?</q>
+  <optiona>10</optiona>
+  <optionb>12</optionb>
+  <optionc >13</optionc>
+  <optiond>11</optiond>
+  <a>11</a>
+
+  <q>What could be the maximum value of Q in the following equation? 5P9 + 3R7 + 2Q8 = 1114</q>
+  <optiona>11</optiona>
+  <optionb>7</optionb>
+  <optionc >9</optionc>
+  <optiond >6</optiond>
+  <a>9</a>
+
+  <q>Find the unit's digit in the product (2467)163 x (341)72.</q>
+  <optiona >7</optiona>
+  <optionb >5</optionb>
+  <optionc >4</optionc>
+  <optiond >3</optiond>
+  <a>7</a>
+  
+  <q>What least value must be assigned to * so that the number 197*5462 is r 9 ?</q>
+  <optiona >0</optiona>
+  <optionb >1</optionb>
+  <optionc >2</optionc>
+  <optiond >3</optiond>
+  <a>2</a>
+  
+  <q>Which digits should come in place of * and $ if the number 62684*$ is
+divisible by both 8 and 5 ?</q>
+  <optiona >4 and 0</optiona>
+  <optionb >0 and 4</optionb>
+  <optionc >5 and 0</optionc>
+  <optiond >0 and 5</optiond>
+  <a>4 and 0</a>
+  
+  <q>How many terms are there in 2,4,8,16……1024?</q>
+  <optiona >11</optiona>
+  <optionb >10</optionb>
+  <optionc >8</optionc>
+  <optiond >7</optiond>
+  <a>10</a>
+  
+  <q>Find the sum of all 2 digit numbers divisible by 3.</q>
+  <optiona >1664</optiona>
+  <optionb >1665</optionb>
+  <optionc >1663</optionc>
+  <optiond >1661</optiond>
+  <a>1665</a>
+  
+  <q>Find the sum of all odd numbers upto 100.</q>
+  <optiona >2250</optiona>
+  <optionb >2750</optionb>
+  <optionc >2000</optionc>
+  <optiond >2500</optiond>
+  <a>2500</a>
+  
+  <q>Find the number which is nearest to 3105 and is exactly divisible by 21.</q>
+  <optiona >3107</optiona>
+  <optionb >3108</optionb>
+  <optionc >3106</optionc>
+  <optiond >3109</optiond>
+  <a>3108</a>
+  
+  <q>On dividing 15968 by a certain number, the quotient is 89 and the remainder is 37. Find the divisor.</q>
+  <optiona >179</optiona>
+  <optionb >177</optionb>
+  <optionc >178</optionc>
+  <optiond >176</optiond>
+  <a>179</a>
+  
+  <q>A number being successively divided by 3, 5 and 8 leaves remainders 1, 4and 7 respectively. Find the respective remainders if the order of divisors be reversed,</q>
+  <optiona >4,6,2</optiona>
+  <optionb >6,2,4</optionb>
+  <optionc >2,6,4</optionc>
+  <optiond >6,4,2</optiond>
+  <a>6,4,2</a>
+  
+  <q>Simplify 896 x 896 - 204 x 204</q>
+  <optiona >761200</optiona>
+  <optionb >762100</optionb>
+  <optionc >763100</optionc>
+  <optiond >761300</optiond>
+  <a>761200</a>
+  
+  <q>Evaluate : (313 x 313 + 287 x 287).</q>
+  <optiona >180883</optiona>
+  <optionb >180383</optionb>
+  <optionc >180338</optionc>
+  <optiond >180838</optiond>
+  <a>180338</a>
+  
+  <q>A number when divided by 342 gives a remainder 47. When the same number ift divided by 19, what would be the remainder ?</q>
+  <optiona >10</optiona>
+  <optionb >7</optionb>
+  <optionc >9</optionc>
+  <optiond >8</optiond>
+  <a>9</a>
+  
+  <q>Evaluate  986 x 237 + 986 x 863</q>
+  <optiona >986000</optiona>
+  <optionb >968000</optionb>
+  <optionc >966000</optionc>
+  <optiond >988000</optiond>
+  <a>986000</a>
+  
+  <q>Simplify  1605 x 1605</q>
+  <optiona >2576020</optiona>
+  <optionb >2577025</optionb>
+  <optionc >2575025</optionc>
+  <optiond >2576025</optiond>
+  <a>2576025</a>
+  
+  <q>Simplify : 387 x 387 + 114 x 114 + 2 x 387 x 114</q>
+  <optiona >251002</optiona>
+  <optionb >251001</optionb>
+  <optionc >251003</optionc>
+  <optiond >251004</optiond>
+  <a>251001</a>
+  
+  <q>What least number must be added to 3000 to obtain a number exactly divisible by 19 ?</q>
+  <optiona >1</optiona>
+  <optionb >2</optionb>
+  <optionc >3</optionc>
+  <optiond >4</optiond>
+  <a>2</a>
+</questions>
+

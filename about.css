@@ -1,0 +1,21 @@
+.section-side {
+	padding-top :50px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:75px;
+	text-align:justify;
+	background-color:#dfbf9f;
+	margin-left:70px;
+	margin-right:50px;
+}
+.section-side p{
+	padding-top:10px;
+	font-size:20px;
+	
+}
+h3 {
+	padding-top:25px;
+	text-align:center;
+	font-size: 30px;
+	font-family:times new roman;
+}

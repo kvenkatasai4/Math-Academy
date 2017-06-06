@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<numbers>
+	<divisibility>
+		<divisibilityBy>Divisibility by 2</divisibilityBy>
+		<details>A number is divisible by 2, if its unit's digit is any of 0, 2, 4, 6, 8. Ex. 84932 is divisible by 2, while 65935 is not.</details>
+	</divisibility>
+		<divisibility>
+		<divisibilityBy>Divisibility by 3</divisibilityBy>
+		<details>A number is divisible by 3, if the sum of its digits is divisible by 3. Ex.592482 is divisible by 3, since sum of its digits = (5 + 9 + 2 
+		+ 4 + 8 + 2) = 30, which is divisible by 3. But, 864329 is not divisible by 3, since sum of its digits =(8 + 6 + 4 + 3 + 2 + 9) = 32, which is not 
+		divisible by 3.</details>
+	</divisibility>
+		<divisibility>
+		<divisibilityBy>Divisibility by 4</divisibilityBy>
+		<details>A number is divisible by 4, if the number formed by the last two digits is divisible by 4. Ex. 892648 is divisible by 4, since the number formed by the last two digits is 48, which is divisible by 4. 
+			But, 749282 is not divisible by 4, since the number formed by the last tv/o digits is 82, which is not divisible by 4.</details>
+	</divisibility>
+		<divisibility>
+		<divisibilityBy>Divisibility by 5</divisibilityBy>
+		<details>A number is divisible by 5, if its unit's digit is either 0 or 5. Thus, 20820 and 50345 are divisible by 5, while 30934 and 40946 are not.</details>
+	</divisibility>
+	<divisibility>
+		<divisibilityBy>Divisibility by 6</divisibilityBy>
+		<details>A number is divisible by 6, if it is divisible by both 2 and 3. Ex. The number 35256 is clearly divisible by 2. Sum of its digits = (3 + 5 + 2
+		+ 5 + 6) = 21, which is divisible by 3. Thus, 35256 is divisible by 2 as well as 3. Hence, 35256 is divisible by 6</details>
+	</divisibility>
+</numbers>

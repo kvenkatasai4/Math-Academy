@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Math Academy</title>
+	<meta charset = "utf-8" />
+	<link rel ="stylesheet" type = "text/css" href="header.css">
+	<link rel ="stylesheet" type = "text/css" href="questions.css" >
+	<script type="text/javascript" src="simplificationTest.js"></script>
+</head>
+<body>
+	<h1>Math Academy</h1>
+	<div class="container">
+	<header>
+		<nav class = "top-nav">
+			<ul>
+				<li><a href="frontPage.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="tutorial.html">Tutorials</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<section class ="section">
+	<h2 id="quiz"> Quiz </h2>
+	 <p id="timer"><strong>15:00</strong></p>
+    <form method="post" action="">
+        <p><input type="button" value="Start the Quiz" id="startques" /></p>
+        <p><strong>Question:</strong> <span id="question">[Press Button to Start Quiz]</span></p> 
+        <p><strong>Option1:</strong> <span id="option1">[option 1 text]</span></p>
+        <p><strong>Option2:</strong> <span id="option2">[option 2 text]</span></p>
+        <p><strong>Option3:</strong> <span id="option3">[option 3 text]</span></p>
+        <p><strong>Option4:</strong> <span id="option4">[option 4 text]</span></p>
+        <p><strong>Answer:</strong> <input type="text" name="question" id="answer" /></p>
+		<label id="validation"> </label>
+        <p><input type="button" value="Submit Answer" id="submit" /> <input type="button" value="Next" id="next" /></p>
+        <p><input type="button" value="Score" id="score" /></p>
+        <p><h3 id="report"> </h3></p>
+		<p><h4 id="result"> </h4></p>
+    </form>
+	</section>
+	<footer class = "bottom-side">
+		&copy; copywrite MathAcademy.com
+	</footer>
+	</div>
+</body>
+</html>
